@@ -94,4 +94,4 @@ Used for fetching dynamic product data.
 ---
 
 ## 📽️ Demo 
-▶ Watch Demo Video](https://youtube.com/shorts/EiAz-r0QjK8?si=yu2myLlJy6bUsN4D)
+▶ Watch Demo Video](https://youtube.com/shorts/Kn3US1wkl3Q?si=QA9iXle5bkQMgz-8)
