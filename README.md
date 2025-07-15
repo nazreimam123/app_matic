@@ -66,7 +66,7 @@ Used for fetching dynamic product data.
 | Package              | Purpose                             |
 |----------------------|-------------------------------------|
 | provider             | State management                    |
-| http                 | API calls                           |
+| dio                  | API calls                           |
 | flutter_screenutil   | Responsive design                   |
 
 
